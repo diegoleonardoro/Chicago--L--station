@@ -28,7 +28,7 @@ Finally, I also looked into data of applications for restaurant licenses, provid
 
 I did the data wrangling with Python (pandas, numpy, Nominatim and Google Maps Api for geolocation)
 
-To present the data I used pure JavaScript d3.js. Please find the repository for this in the following link: https://github.com/diegoleonardoro/diegoleonardoro.github.io
+To present the data I used pure JavaScript and d3.js. Please find the repository for this in the following link: https://github.com/diegoleonardoro/diegoleonardoro.github.io
 
 For a project like this, I would like all the analysis to be displayed on an interactive website where the client can explore the data in different ways. To have a better idea on how I envision presenting the data to a potential client, please visit the following link to see the d3.js charts that I made: 
 
