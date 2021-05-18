@@ -18,7 +18,7 @@ This is a very broad standard deviation, and as we can see in the chart below, m
 
 Please see the only Python notebook of this repository to see the process for these calculations and also other data wrangling steps that I took. The Python notebook may need to be reloaded several times, as it is long.
 
-<h2>Choose a specific business and tell us which business you chose. Imagine you’re helping that business owner in Chicago and s/he is looking to open a new location.</h2>
+<h2> 3. Choose a specific business and tell us which business you chose. Imagine you’re helping that business owner in Chicago and s/he is looking to open a new location.</h2>
 
 I chose a theatre that showcases independent and foreign movies called Landmark's Century Centre Cinema. This theatre currently has a location in 2828 North Clark Street at Diversey. I analyzed the provided L train ridership data to understand transit patterns of the are where the theatre currently has a location. 
 
